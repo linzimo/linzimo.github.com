@@ -1,0 +1,7 @@
+---
+layout: post
+title: 第一篇
+---
+#{{ page.title }}#
+
+ 从这里开始
